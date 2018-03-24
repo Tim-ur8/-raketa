@@ -1,0 +1,9 @@
+﻿<head>
+  <meta charset="utf-8">
+</head>
+ <body>
+ <table border="1">
+ <video
+ controls="" autoplay="" name="media">
+ <source src="file:///C:/Users/Monstr/YandexDisk/%D1%85%D1%82%D0%BC%D0%BB/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0/zemlyane_kaskadyory_(NaitiMP3.ru).mp3"
+ type="audio/mp3"></video>
